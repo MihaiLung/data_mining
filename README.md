@@ -1,2 +1,3 @@
 # names_gender
-A personal project where I attempt to train a neural network to classify a name with a gender and origin purely by looking at it.
+
+A data mining program which pulls all name, gender and origin data from a baby-naming website. For personal practice.
